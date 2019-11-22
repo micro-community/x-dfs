@@ -1,2 +1,3 @@
-# x-dfs
-a micro  distribution file system 
+# x-fs
+
+a simple micro oss server
